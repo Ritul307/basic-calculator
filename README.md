@@ -16,3 +16,5 @@ This calculator performs basic arithmetic operations like addition, subtraction,
 - *HTML* for structure
 - *CSS* for styling
 - *JavaScript* for functionality
+
+- Basic Calculator live demo [click here to try the calculator](https://ritul307.github.io/basic-calculator/)
